@@ -1,0 +1,278 @@
+[
+    {
+        "numToken": "1",
+        "sinonimo": "i",
+        "nombreToken": "id",
+        "lexema": "mayuscula(letra |digito)*"
+    },
+    {
+        "numToken": "2",
+        "sinonimo": "+",
+        "nombreToken": "adicion",
+        "lexema": "+"
+    },
+    {
+        "numToken": "3",
+        "sinonimo": "-",
+        "nombreToken": "resta",
+        "lexema": "-"
+    },
+    {
+        "numToken": "4",
+        "sinonimo": "*",
+        "nombreToken": "producto",
+        "lexema": "*"
+    },
+    {
+        "numToken": "5",
+        "sinonimo": "/",
+        "nombreToken": "division",
+        "lexema": "/"
+    },
+    {
+        "numToken": 6,
+        "sinonimo": "^",
+        "nombreToken": "potencia",
+        "lexema": "**"
+    },
+    {
+        "numToken": 7,
+        "sinonimo": "&",
+        "nombreToken": "and",
+        "lexema": "&&"
+    },
+    {
+        "numToken": 8,
+        "sinonimo": "|",
+        "nombreToken": "or",
+        "lexema": "||"
+    },
+    {
+        "numToken": 9,
+        "sinonimo": "<",
+        "nombreToken": "menorque",
+        "lexema": "<"
+    },
+    {
+        "numToken": 10,
+        "sinonimo": ">",
+        "nombreToken": "mayorque",
+        "lexema": ">"
+    },
+    {
+        "numToken": 11,
+        "sinonimo": "¿",
+        "nombreToken": "igualque",
+        "lexema": "=="
+    },
+    {
+        "numToken": 12,
+        "sinonimo": "%",
+        "nombreToken": "menorigual",
+        "lexema": "<="
+    },
+    {
+        "numToken": 13,
+        "sinonimo": "$",
+        "nombreToken": "mayorigual",
+        "lexema": ">="
+    },
+    {
+        "numToken": 14,
+        "sinonimo": "#",
+        "nombreToken": "diferente",
+        "lexema": "!="
+    },
+    {
+        "numToken": 15,
+        "sinonimo": "v",
+        "nombreToken": "verdadero",
+        "lexema": "true"
+    },
+    {
+        "numToken": 16,
+        "sinonimo": "f",
+        "nombreToken": "falso",
+        "lexema": "false"
+    },
+    {
+        "numToken": 17,
+        "sinonimo": "e",
+        "nombreToken": "entero",
+        "lexema": "int"
+    },
+    {
+        "numToken": 18,
+        "sinonimo": "r",
+        "nombreToken": "real",
+        "lexema": "float"
+    },
+    {
+        "numToken": 19,
+        "sinonimo": "b",
+        "nombreToken": "lógico",
+        "lexema": "bool"
+    },
+    {
+        "numToken": 20,
+        "sinonimo": "c",
+        "nombreToken": "carácter",
+        "lexema": "char"
+    },
+    {
+        "numToken": 21,
+        "sinonimo": "t",
+        "nombreToken": "cadena",
+        "lexema": "text"
+    },
+    {
+        "numToken": 22,
+        "sinonimo": "m",
+        "nombreToken": "programa",
+        "lexema": "main"
+    },
+    {
+        "numToken": 23,
+        "sinonimo": "{",
+        "nombreToken": "inibloque",
+        "lexema": "{"
+    },
+    {
+        "numToken": 24,
+        "sinonimo": "}",
+        "nombreToken": "finbloque",
+        "lexema": "}"
+    },
+    {
+        "numToken": 25,
+        "sinonimo": "=",
+        "nombreToken": "asignacion",
+        "lexema": "="
+    },
+    {
+        "numToken": 26,
+        "sinonimo": "q",
+        "nombreToken": "si",
+        "lexema": "if"
+    },
+    {
+        "numToken": 27,
+        "sinonimo": "w",
+        "nombreToken": "mientras",
+        "lexema": "while"
+    },
+    {
+        "numToken": 28,
+        "sinonimo": "l",
+        "nombreToken": "bucle",
+        "lexema": "loop"
+    },
+    {
+        "numToken": 29,
+        "sinonimo": "g",
+        "nombreToken": "para",
+        "lexema": "for"
+    },
+    {
+        "numToken": 30,
+        "sinonimo": "n",
+        "nombreToken": "incremento",
+        "lexema": "++"
+    },
+    {
+        "numToken": 31,
+        "sinonimo": "j",
+        "nombreToken": "leer",
+        "lexema": "getElement"
+    },
+    {
+        "numToken": 32,
+        "sinonimo": "k",
+        "nombreToken": "escribir",
+        "lexema": "document"
+    },
+    {
+        "numToken": 33,
+        "sinonimo": "p",
+        "nombreToken": "continuar",
+        "lexema": "continue"
+    },
+    {
+        "numToken": 34,
+        "sinonimo": ",",
+        "nombreToken": "coma",
+        "lexema": ","
+    },
+    {
+        "numToken": 35,
+        "sinonimo": "(",
+        "nombreToken": "pizq",
+        "lexema": "("
+    },
+    {
+        "numToken": 36,
+        "sinonimo": ")",
+        "nombreToken": "pder",
+        "lexema": ")"
+    },
+    {
+        "numToken": 37,
+        "sinonimo": ";",
+        "nombreToken": "pycoma",
+        "lexema": ";"
+    },
+    {
+        "numToken": 38,
+        "sinonimo": "d",
+        "nombreToken": "hacer",
+        "lexema": "do"
+    },
+    {
+        "numToken": 39,
+        "sinonimo": ":",
+        "nombreToken": "dospuntos",
+        "lexema": ":"
+    },
+    {
+        "numToken": 40,
+        "sinonimo": "h",
+        "nombreToken": "declarar",
+        "lexema": "var"
+    },
+    {
+        "numToken": 41,
+        "sinonimo": "]",
+        "nombreToken": "romper",
+        "lexema": "break"
+    },
+    {
+        "numToken": 42,
+        "sinonimo": "a",
+        "nombreToken": "literalcadena",
+        "lexema": "\"(letra | digito)+\""
+    },
+    {
+        "numToken": 43,
+        "sinonimo": "z",
+        "nombreToken": "literalentero",
+        "lexema": "digito+"
+    },
+    {
+        "numToken": 44,
+        "sinonimo": "y",
+        "nombreToken": "literalreal",
+        "lexema": "digito+.digito+ | -digito+.digito"
+    },
+    {
+        "numToken": 45,
+        "sinonimo": "u",
+        "nombreToken": "literalchar",
+        "lexema": "`letra`"
+    },
+    {
+        "numToken": 46,
+        "sinonimo": "\\",
+        "nombreToken": "comentario",
+        "lexema": "\\*(letra|digitos|simbolos|mayuscula)+(letra|digitos|simbolos|mayuscula)**\\"
+    }
+]

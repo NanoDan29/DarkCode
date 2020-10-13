@@ -1,0 +1,1 @@
+\*Hola Total = Total + ( Total ** 2 ) - ( Total * 10 ) ;*\

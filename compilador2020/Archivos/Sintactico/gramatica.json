@@ -1,0 +1,512 @@
+{
+    "gramatica": {
+        "alfabeto": {
+            "simbolo": [
+                "mayuscula(letra |digito)*",
+                "+",
+                "-",
+                "*",
+                "/",
+                "**",
+                "&&",
+                "||",
+                "<",
+                ">",
+                "==",
+                "<=",
+                ">=",
+                "!=",
+                "true",
+                "false",
+                "int",
+                "float",
+                "bool",
+                "char",
+                "text",
+                "main",
+                "}",
+                "{",
+                "=",
+                "if",
+                "while",
+                "loop",
+                "for",
+                "++",
+                "getElement",
+                "document",
+                "continue",
+                ",",
+                "(",
+                ")",
+                ";",
+                "do",
+                ":",
+                "var",
+                "break",
+                "\"(letra | digito)+\"",
+                "digito+",
+                "digito+.digito+ | -digito+.digito",
+                "`letra`"
+            ]
+        },
+        "noTerminales": {
+            "noTer": [
+                "programa",
+                "declare",
+                "undeclarar",
+                "listavar",
+                "tipo",
+                "inicializa",
+                "literal",
+                "instrucciones",
+                "instruccion",
+                "if",
+                "else",
+                "while",
+                "for",
+                "incremento",
+                "doloop",
+                "escribir",
+                "leer",
+                "argumentos",
+                "asigna",
+                "condicion",
+                "operel",
+                "expresión",
+                "termino",
+                "factor"
+            ]
+        },
+        "reglas": {
+            "regla": [
+                {
+                    "parteIzquierda": "P",
+                    "parteDerecha": "hDm{I}",
+                    "parteIzquierdaNS": "programa",
+                    "parteDerechaNS": "var declarar main { instrucciones }",
+                    "size": "6"
+                },
+                {
+                    "parteIzquierda": "D",
+                    "parteDerecha": "U",
+                    "parteIzquierdaNS": "declarar",
+                    "parteDerechaNS": "undeclare",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "D",
+                    "parteDerecha": "UD",
+                    "parteIzquierdaNS": "declarar",
+                    "parteDerechaNS": "undeclare declarar",
+                    "size": "2"
+                },
+                {
+                    "parteIzquierda": "U",
+                    "parteDerecha": "CL;",
+                    "parteIzquierdaNS": "undeclare",
+                    "parteDerechaNS": "tipo listavar ;",
+                    "size": "3"
+                },
+                {
+                    "parteIzquierda": "C",
+                    "parteDerecha": "e",
+                    "parteIzquierdaNS": "tipo",
+                    "parteDerechaNS": "int",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "C",
+                    "parteDerecha": "r",
+                    "parteIzquierdaNS": "tipo",
+                    "parteDerechaNS": "float",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "C",
+                    "parteDerecha": "c",
+                    "parteIzquierdaNS": "tipo",
+                    "parteDerechaNS": "char",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "C",
+                    "parteDerecha": "t",
+                    "parteIzquierdaNS": "tipo",
+                    "parteDerechaNS": "text",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "C",
+                    "parteDerecha": "b",
+                    "parteIzquierdaNS": "tipo",
+                    "parteDerechaNS": "bool",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "L",
+                    "parteDerecha": "iN,L",
+                    "parteIzquierdaNS": "listavar",
+                    "parteDerechaNS": "identificador  inicializa , listavar",
+                    "size": "4"
+                },
+                {
+                    "parteIzquierda": "L",
+                    "parteDerecha": "i,N",
+                    "parteIzquierdaNS": "listavar",
+                    "parteDerechaNS": "identificador , listavar",
+                    "size": "3"
+                },
+                {
+                    "parteIzquierda": "L",
+                    "parteDerecha": "iN",
+                    "parteIzquierdaNS": "listavar",
+                    "parteDerechaNS": "identificador inicializa",
+                    "size": "2"
+                },
+                {
+                    "parteIzquierda": "L",
+                    "parteDerecha": "i",
+                    "parteIzquierdaNS": "listavar",
+                    "parteDerechaNS": "identificador",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "N",
+                    "parteDerecha": "=H",
+                    "parteIzquierdaNS": "inicializa",
+                    "parteDerechaNS": "= literal",
+                    "size": "2"
+                },
+                {
+                    "parteIzquierda": "H",
+                    "parteDerecha": "a",
+                    "parteIzquierdaNS": "literal",
+                    "parteDerechaNS": "int",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "H",
+                    "parteDerecha": "y",
+                    "parteIzquierdaNS": "literal",
+                    "parteDerechaNS": "literalreal",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "H",
+                    "parteDerecha": "z",
+                    "parteIzquierdaNS": "literal",
+                    "parteDerechaNS": "literalentero",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "H",
+                    "parteDerecha": "u",
+                    "parteIzquierdaNS": "literal",
+                    "parteDerechaNS": "literalchar",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "H",
+                    "parteDerecha": "f",
+                    "parteIzquierdaNS": "literal",
+                    "parteDerechaNS": "false",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "H",
+                    "parteDerecha": "v",
+                    "parteIzquierdaNS": "literal",
+                    "parteDerechaNS": "true",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "I",
+                    "parteDerecha": "X",
+                    "parteIzquierdaNS": "instrucciones",
+                    "parteDerechaNS": "instruccion",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "I",
+                    "parteDerecha": "XI",
+                    "parteIzquierdaNS": "instrucciones",
+                    "parteDerechaNS": "instruccion instrucciones",
+                    "size": "2"
+                },
+                {
+                    "parteIzquierda": "X",
+                    "parteDerecha": "Y",
+                    "parteIzquierdaNS": "instruccion",
+                    "parteDerechaNS": "if",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "X",
+                    "parteDerecha": "W",
+                    "parteIzquierdaNS": "instruccion",
+                    "parteDerechaNS": "while",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "X",
+                    "parteDerecha": "S",
+                    "parteIzquierdaNS": "instruccion",
+                    "parteDerechaNS": "for",
+                      "size": "1"
+                },
+                {
+                    "parteIzquierda": "X",
+                    "parteDerecha": "V",
+                    "parteIzquierdaNS": "instruccion",
+                    "parteDerechaNS": "escribir",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "X",
+                    "parteDerecha": "R",
+                    "parteIzquierdaNS": "instruccion",
+                    "parteDerechaNS": "leer",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "X",
+                    "parteDerecha": "O",
+                    "parteIzquierdaNS": "instruccion",
+                    "parteDerechaNS": "doloop",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "X",
+                    "parteDerecha": "A",
+                    "parteIzquierdaNS": "instruccion",
+                    "parteDerechaNS": "asigna",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "X",
+                    "parteDerecha": "]",
+                    "parteIzquierdaNS": "instruccion",
+                    "parteDerechaNS": "break",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "Y",
+                    "parteDerecha": "q(Z){I}Q",
+                    "parteIzquierdaNS": "if",
+                    "parteDerechaNS": "if  ( condición ) { instrucciones } else",
+                    "size": "8"
+                },
+                {
+                    "parteIzquierda": "Q",
+                    "parteDerecha": ":{I}",
+                    "parteIzquierdaNS": "else",
+                    "parteDerechaNS": "{ instrucciones }",
+                    "size": "4"
+                },
+                {
+                    "parteIzquierda": "Q",
+                    "parteDerecha": ";",
+                    "parteIzquierdaNS": "else",
+                    "parteDerechaNS": ";",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "W",
+                    "parteDerecha": "w(Z){I}",
+                    "parteIzquierdaNS": "while",
+                    "parteDerechaNS": "while ( <condicion> ) { <instrucciones> }",
+                    "size": "7"
+                },
+                {
+                    "parteIzquierda": "S",
+                    "parteDerecha": "g(iN;Z;M){I}",
+                    "parteIzquierdaNS": "for",
+                    "parteDerechaNS": "for ( identificador inicializa ; condicion ; incremento ) {instrucciones }",
+                    "size": "12"
+                },
+                {
+                    "parteIzquierda": "M",
+                    "parteDerecha": "in",
+                    "parteIzquierdaNS": "incremento",
+                    "parteDerechaNS": "identificador ++",
+                    "size": "2"
+                },
+                {
+                    "parteIzquierda": "O",
+                    "parteDerecha": "d{I}l(Z);",
+                    "parteIzquierdaNS": "doloop",
+                    "parteDerechaNS": "do { instrucciones } loop ( condicion ) ;",
+                    "size": "9"
+                },
+                {
+                    "parteIzquierda": "V",
+                    "parteDerecha": "k(G);",
+                    "parteIzquierdaNS": "escribir",
+                    "parteDerechaNS": "document ( <argumentos> ) ;",
+                    "size": "5"
+                },
+                {
+                    "parteIzquierda": "R",
+                    "parteDerecha": "j(G);",
+                    "parteIzquierdaNS": "leer",
+                    "parteDerechaNS": "getElement ( argumentos ) ;",
+                    "size": "5"
+                },
+                {
+                    "parteIzquierda": "G",
+                    "parteDerecha": "i,G",
+                    "parteIzquierdaNS": "argumentos",
+                    "parteDerechaNS": "identificador , argumentos",
+                    "size": "3"
+                },
+                {
+                    "parteIzquierda": "G",
+                    "parteDerecha": "i",
+                    "parteIzquierdaNS": "argumentos",
+                    "parteDerechaNS": "identificador",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "A",
+                    "parteDerecha": "i=E;",
+                    "parteIzquierdaNS": "asigna",
+                    "parteDerechaNS": "identificador = expresión ;",
+                    "size": "4"
+                },
+                {
+                    "parteIzquierda": "Z",
+                    "parteDerecha": "EBE",
+                    "parteIzquierdaNS": "condicion",
+                    "parteDerechaNS": "expresion operel expresion",
+                    "size": "3"
+                },
+                {
+                    "parteIzquierda": "B",
+                    "parteDerecha": "|",
+                    "parteIzquierdaNS": "operel",
+                    "parteDerechaNS": "|",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "B",
+                    "parteDerecha": "&",
+                    "parteIzquierdaNS": "operel",
+                    "parteDerechaNS": "&&",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "B",
+                    "parteDerecha": "#",
+                    "parteIzquierdaNS": "operel",
+                    "parteDerechaNS": "!=",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "B",
+                    "parteDerecha": ">",
+                    "parteIzquierdaNS": "operel",
+                    "parteDerechaNS": ">",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "B",
+                    "parteDerecha": "<",
+                    "parteIzquierdaNS": "operel",
+                    "parteDerechaNS": "<",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "B",
+                    "parteDerecha": "$",
+                    "parteIzquierdaNS": "operel",
+                    "parteDerechaNS": ">=",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "B",
+                    "parteDerecha": "%",
+                    "parteIzquierdaNS": "operel",
+                    "parteDerechaNS": "<=",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "B",
+                    "parteDerecha": "¿",
+                    "parteIzquierdaNS": "operel",
+                    "parteDerechaNS": "==",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "E",
+                    "parteDerecha": "E+T",
+                    "parteIzquierdaNS": "expresión",
+                    "parteDerechaNS": "expresión + termino",
+                    "size": "3"
+                },
+                {
+                    "parteIzquierda": "E",
+                    "parteDerecha": "E-T",
+                    "parteIzquierdaNS": "<expresión>",
+                    "parteDerechaNS": "expresión - termino",
+                    "size": "3"
+                },
+                {
+                    "parteIzquierda": "E",
+                    "parteDerecha": "T",
+                    "parteIzquierdaNS": "expresión",
+                    "parteDerechaNS": "termino",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "T",
+                    "parteDerecha": "T*F",
+                    "parteIzquierdaNS": "<termino>",
+                    "parteDerechaNS": "termino * factor",
+                    "size": "3"
+                },
+                {
+                    "parteIzquierda": "T",
+                    "parteDerecha": "T/F",
+                    "parteIzquierdaNS": "<termino>",
+                    "parteDerechaNS": "termino / factor",
+                    "size": "3"
+                },
+                {
+                    "parteIzquierda": "T",
+                    "parteDerecha": "T^F",
+                    "parteIzquierdaNS": "termino",
+                    "parteDerechaNS": "termino ** factor",
+                    "size": "3"
+                },
+                {
+                    "parteIzquierda": "T",
+                    "parteDerecha": "F",
+                    "parteIzquierdaNS": "termino",
+                    "parteDerechaNS": "factor",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "F",
+                    "parteDerecha": "i",
+                    "parteIzquierdaNS": "factor",
+                    "parteDerechaNS": "identificador",
+                    "size": "1"
+                },
+                {
+                    "parteIzquierda": "F",
+                    "parteDerecha": "(E)",
+                    "parteIzquierdaNS": "factor",
+                    "parteDerechaNS": "( expresión )",
+                    "size": "3"
+                },
+                {
+                    "parteIzquierda": "F",
+                    "parteDerecha": "H",
+                    "parteIzquierdaNS": "factor",
+                    "parteDerechaNS": "literal",
+                    "size": "1"
+                }
+            ]
+        }
+    }
+}

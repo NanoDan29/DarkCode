@@ -1,0 +1,105 @@
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.csprojAssemblyReference.cache
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.Form1.resources
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.Lexico.vistas.winLexico.resources
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.Properties.Resources.resources
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.csproj.GenerateResource.cache
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.csproj.CoreCompileInputs.cache
+C:\Users\jowel\source\repos\compilador2020\compilador2020\bin\Debug\compilador2020.exe.config
+C:\Users\jowel\source\repos\compilador2020\compilador2020\bin\Debug\compilador2020.exe
+C:\Users\jowel\source\repos\compilador2020\compilador2020\bin\Debug\compilador2020.pdb
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.exe
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.pdb
+C:\Users\jowel\source\repos\compilador2020\compilador2020\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jowel\source\repos\compilador2020\compilador2020\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.csproj.CopyComplete
+C:\Users\jowel\Desktop\compilador2020\compilador2020\bin\Debug\compilador2020.exe.config
+C:\Users\jowel\Desktop\compilador2020\compilador2020\bin\Debug\compilador2020.exe
+C:\Users\jowel\Desktop\compilador2020\compilador2020\bin\Debug\compilador2020.pdb
+C:\Users\jowel\Desktop\compilador2020\compilador2020\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jowel\Desktop\compilador2020\compilador2020\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.csprojAssemblyReference.cache
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.Form1.resources
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.Lexico.vistas.winLexico.resources
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.Properties.Resources.resources
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.csproj.GenerateResource.cache
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.csproj.CoreCompileInputs.cache
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.csproj.CopyComplete
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.exe
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.pdb
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.csprojAssemblyReference.cache
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.Lexico.vistas.winLexico.resources
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.Properties.Resources.resources
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.csproj.GenerateResource.cache
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.csproj.CoreCompileInputs.cache
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.exe
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.pdb
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\bin\Debug\compilador2020.exe.config
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\bin\Debug\compilador2020.exe
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\bin\Debug\compilador2020.pdb
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.csproj.CopyComplete
+F:\compilador2020-DarkCode\compilador2020\bin\Debug\compilador2020.exe.config
+F:\compilador2020-DarkCode\compilador2020\bin\Debug\compilador2020.exe
+F:\compilador2020-DarkCode\compilador2020\bin\Debug\compilador2020.pdb
+F:\compilador2020-DarkCode\compilador2020\bin\Debug\Newtonsoft.Json.dll
+F:\compilador2020-DarkCode\compilador2020\bin\Debug\Newtonsoft.Json.xml
+F:\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.csprojAssemblyReference.cache
+F:\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.Lexico.vistas.winLexico.resources
+F:\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.Properties.Resources.resources
+F:\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.csproj.GenerateResource.cache
+F:\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.csproj.CoreCompileInputs.cache
+F:\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.csproj.CopyComplete
+F:\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.exe
+F:\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.pdb
+F:\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.SplashScream.resources
+F:\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.Main.resources
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.csprojAssemblyReference.cache
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.Main.resources
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.Lexico.vistas.winLexico.resources
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.Properties.Resources.resources
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.SplashScream.resources
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.csproj.GenerateResource.cache
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.exe
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.pdb
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\bin\Debug\compilador2020.exe.config
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\bin\Debug\compilador2020.exe
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\bin\Debug\compilador2020.pdb
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.csproj.CopyComplete
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.Main.resources
+C:\Users\jowel\Desktop\compilador2020-DarkCode\compilador2020\obj\Debug\compilador2020.SplashScream.resources
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\bin\Debug\compilador2020.exe.config
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\bin\Debug\compilador2020.exe
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\bin\Debug\compilador2020.pdb
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.csprojAssemblyReference.cache
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.Main.resources
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.Lexico.vistas.winLexico.resources
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.Properties.Resources.resources
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.SplashScream.resources
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.csproj.GenerateResource.cache
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.csproj.CopyComplete
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.exe
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.pdb
+C:\Users\User\Documents\Proyecto Compiladores\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.Sintactico.vista.winsintactico.resources
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.csprojAssemblyReference.cache
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.Main.resources
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.Lexico.vistas.winLexico.resources
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.Properties.Resources.resources
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.Sintactico.vista.winsintactico.resources
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.SplashScream.resources
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.csproj.GenerateResource.cache
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.csproj.CoreCompileInputs.cache
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.exe
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.pdb
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\bin\Debug\compilador2020.exe.config
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\bin\Debug\compilador2020.exe
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\bin\Debug\compilador2020.pdb
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jowel\Desktop\CompiladorDarkCode-master\compilador2020\obj\Debug\compilador2020.csproj.CopyComplete

@@ -1,0 +1,148 @@
+[
+    {
+        "Regla": "P",
+        "First": "h"
+        ,
+        "Next": "ñ"
+        
+    },
+    {
+        "Regla": "D",
+        "First": "c r e t b"
+        ,
+        "Next": "m"
+    },
+    {
+        "Regla": "U",
+        "First": "c r e t b"
+        ,
+        "Next": "m c r e t b"
+    },
+    {
+        "Regla": "C",
+        "First": "c r e t b"
+        ,
+        "Next": "i"
+    },
+    {
+        "Regla": "L",
+        "First": "i"
+        ,
+        "Next": ";"
+    },
+    {
+        "Regla": "N",
+        "First": "="
+        ,
+        "Next": ", ;"
+    },
+    {
+        "Regla": "H",
+        "First": "a y u f v z"
+        ,
+        "Next": ", ; ) - + ; | & # > < $ % ¿ * / ^"
+    },
+    {
+        "Regla": "I",
+        "First": "q w g k j d i ]"
+        ,
+        "Next": "}"
+    },
+    {
+        "Regla": "X",
+        "First": "q w g k j d i ]"
+        ,
+        "Next": "q w g k j d i ] }"
+    },
+    {
+        "Regla": "Y",
+        "First": "q"
+        ,
+        "Next": "q w g k j d i ] }"
+    },
+    {
+        "Regla": "Q",
+        "First": ": ;"
+        ,
+        "Next": "q w g k j d i ] }"
+    },
+    {
+        "Regla": "W",
+        "First": "w"
+        ,
+        "Next": "q w g k j d i ] }"
+    },
+    {
+        "Regla": "S",
+        "First": "g"
+        ,
+        "Next": "q w g k j d i ] }"
+    },
+    {
+        "Regla": "M",
+        "First": "i"
+        ,
+        "Next": ")"
+    },
+    {
+        "Regla": "O",
+        "First": "d"
+        ,
+        "Next": "q w g k j d i ] }"
+    },
+    {
+        "Regla": "V",
+        "First": "k"
+        ,
+        "Next": "q w g k j d i ] }"
+    },
+    {
+        "Regla": "R",
+        "First": "j"
+        ,
+        "Next": "q w g k j d i ] }"
+    },
+    {
+        "Regla": "G",
+        "First": "i"
+        ,
+        "Next": ")"
+    },
+    {
+        "Regla": "A",
+        "First": "i"
+        ,
+        "Next": "q w g k j d i ] }"
+    },
+    {
+        "Regla": "Z",
+        "First": "( a y u f v z i"
+        ,
+        "Next": ") ;"
+    },
+    {
+        "Regla": "B",
+        "First": "| & # > < $ % ¿"
+        ,
+        "Next": "( a y u f v z i"
+    },
+    {
+        "Regla": "E",
+        "First": "( a y u f v z i"
+        ,
+        "Next": ") - + ; | & # > < $ % ¿"
+        
+    },
+    {
+        "Regla": "T",
+        "First": "( a y u f v z i"
+        ,
+        "Next": ") - + ; | & # > < $ % ¿ * / ^"
+    },
+    {
+        "Regla": "F",
+        "First": "( a y u f v z i"
+        ,
+        "Next": ") - + ; | & # > < $ % ¿ * / ^"
+    }
+]
